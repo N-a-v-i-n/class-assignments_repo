@@ -59,4 +59,3 @@ first_name=full_name[:len(store_ref):1]
 
 print(f"firstName : {first_name}" ) 
 print(f"lastName : {last_name}")
-
