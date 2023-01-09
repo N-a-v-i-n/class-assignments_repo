@@ -1,0 +1,5 @@
+1. Create virtual environment for a project and install pandas, matplotlib. Create 
+requirements.txt file.
+2. Create virtual environment for new project and install all dependencies of previous 
+question project into this project using requirements.txt file, in this new project 
+install new dependencies Django and update requirements.txt in this new project.
